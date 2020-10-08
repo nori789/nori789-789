@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <link rel="stylesheet" href="stylesheet.css">
+ <link rel="stylesheet" href="responsive.css">
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>LASTーそれはまるで、飲む香水。</title>
+ <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+ </head>
+ <body>
+
+<header>
+  <div class="header-image">
+    <p>Our Spirits are<br>
+    ethically Lasting,</p>
+    <h1>それはまるで、<br>
+    飲む香水。</h1>
+    <h3>chapter :<br>
+    CRAFT GIN LAST</h3>
+  </div>
+
+</header>
+
+</body>
+</html>
